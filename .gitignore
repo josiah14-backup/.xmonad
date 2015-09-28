@@ -1,11 +1,14 @@
 dist
 cabal-dev
+history
 *.o
 *.hi
 *.chi
 *.chs.h
 *.dyn_o
 *.dyn_hi
+*.errors
+xmonad-x86_64-linux
 .virtualenv
 .hpc
 .hsenv
